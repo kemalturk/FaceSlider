@@ -25,6 +25,7 @@ Ardından activity sınıfınızın içinde bu view ı tanımlayın.
 FaceView faceView = (FaceView) findViewById(R.id.faceView);
         faceView.setOnTouchListener(faceView);
         ```
+        
 Seçilen yüz ifadesinin değerini getirmek isterseniz aşşağıdaki metodu çağırabilirsiniz.
 
 ```
