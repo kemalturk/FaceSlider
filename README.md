@@ -7,6 +7,7 @@ Kullanım şekli:
 Kütüphaneyi indirip projenize ekleyin.
 
 Sonra kullanmak istediğiniz activity nin xml dosyasına ekleyin.
+
 ```
 <view
         android:layout_width="match_parent"
@@ -15,9 +16,9 @@ Sonra kullanmak istediğiniz activity nin xml dosyasına ekleyin.
         android:layout_centerVertical="true"
         android:layout_centerHorizontal="true"
         android:id="@+id/faceView" />
-        ```
+       
+       ```
         
-    
 Ardından activity sınıfınızın içinde bu view ı tanımlayın.
 
 ```
