@@ -1,3 +1,3 @@
 # FaceSlider
 
-![YQWY5P](http://i.makeagif.com/media/11-04-2016/YQWY5P.gif)
+![YQWY5P](http://i.giphy.com/FF20NMz9TJTz2.gif)
