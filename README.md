@@ -6,7 +6,7 @@ Kullanım şekli:
 
 Kütüphaneyi indirip projenize ekleyin.
 
-Sonra kullanmak istediğiniz activity nin xml dosyasına ekleyin.
+Sonra kullanmak istediğiniz activity nin xml dosyasına aşağıdaki view ı ekleyin.
 
 ```
 <view
@@ -25,6 +25,7 @@ FaceView faceView = (FaceView) findViewById(R.id.faceView);
         faceView.setOnTouchListener(faceView);
 ```
 
+İşte hepsi bu kadar.
         
 Seçilen yüz ifadesinin değerini getirmek isterseniz aşşağıdaki metodu çağırabilirsiniz.
 
